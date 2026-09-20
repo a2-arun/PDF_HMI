@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+
+# Generated vector store (regenerate with `python ingest.py`)
+chroma_db/
+
+# Textbook PDFs are typically copyrighted and large — keep them local.
+grade_pdfs/*.pdf
+sample_pdfs/
+
+# Secrets / local overrides
+.env
+
+.DS_Store

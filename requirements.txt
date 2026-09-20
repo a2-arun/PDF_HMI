@@ -1,0 +1,7 @@
+streamlit==1.46.1
+pdfplumber==0.11.7
+langchain-text-splitters==0.3.8
+sentence-transformers==4.1.0
+chromadb==1.0.13
+requests==2.32.4
+python-dotenv==1.1.1
