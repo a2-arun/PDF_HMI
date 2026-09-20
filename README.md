@@ -1,4 +1,4 @@
-# Enlighten Bot — RAG-based Educational Assistant for a Humanoid Robot
+# Enlighten Bot: RAG-based Educational Assistant for a Humanoid Robot
 
 An HMI + Retrieval-Augmented Generation (RAG) layer that lets a school
 student ask questions in natural language and get answers **grounded in
