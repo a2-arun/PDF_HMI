@@ -1,6 +1,6 @@
 """Streamlit HMI: the student-facing chat interface.
 
-This is intentionally a thin presentation layer — all retrieval and
+This is intentionally a thin presentation layer: all retrieval and
 generation logic lives in query_engine.py so it can be tested or reused
 (e.g. from a future voice/robot front end) without Streamlit.
 """
